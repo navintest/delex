@@ -1,3 +1,3 @@
 FROM httpd
-COPY delex/index.html /usr/local/apache2/htdocs  
+COPY delex/ /usr/local/apache2/htdocs  
 
